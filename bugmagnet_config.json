@@ -27,7 +27,6 @@
       "Zero width joiner U+200D" : "‍",
       "Left-to-right mark U+200E" : "‎",
       "Right-to-left mark U+200F" : "‏",
-      "Right-to-left override U+202E": "‮",
       "Narrow no-break space U+202F" : " ",
       "Medium mathematical space U+205F" : " ",
       "Word joiner U+2060" : "⁠",
@@ -45,7 +44,7 @@
       "Braille pattern blank U+2800" : "⠀",
       "Hangul filler U+3164" : "ㅤ",
       "Zero width no-break space U+FEFF" : "",
-      "Halfwidth hangul filler U+FFA0" : "ﾠ",
+      "halfwidth hangul filler U+FFA0" : "ﾠ",
       "Musical symbol null notehead U+1D159" : "𝅙",
       "Musical symbol begin beam U+1D173" : "𝅳",
       "Musical symbol end beam U+1D174" : "𝅴",
@@ -54,7 +53,8 @@
       "Musical symbol begin slur U+1D177" : "𝅷",
       "Musical symbol end slur U+1D178" : "𝅸",
       "Musical symbol begin phrase U+1D179" : "𝅹",
-      "Musical symbol end phrase U+1D17A": "𝅺"
+      "Musical symbol end phrase U+1D17A": "𝅺",
+      "Right to left override": "‮"
   },
   "Lipsum": {
       "Lipsum sentence": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
@@ -66,7 +66,6 @@
       "WYSIWYG h1-6": "Heading 1\n\nHeading 2\n\nHeading 3\n\nHeading 4\n\nHeading 5\n\nHeading 6\n\nNormal text\n\nBold text\n\nItalic text\n\nUnderline\n\nStrikethrough\n\nUnordered list item 1\nUnordered list item 2\nUnordered list item 3\n\nOrdered list item 1\nOrdered list item 2\nOrdered list item 3\n\nThis is a block quote\n\nThis is a link"
     },
     "Ws": {
-      "10 Ws": "wwwwwwwwww",
       "100 Ws": "wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww",
       "1000 Ws": "wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww"
     },
